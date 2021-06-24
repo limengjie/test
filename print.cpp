@@ -1,13 +1,13 @@
 #include "print.h"
 
-using namespace std;
+//using namespace std;
 
-struct KV kv{};
+struct KV kv;
 int k = 10;
 
 void print()
 {
-	cout << "hello world" << endl;
-    cout << "key : " << kv.key << ", val : " << kv.val << endl;
-	cout << "k = " << k << endl;
+	std::cout << "hello world" << std::endl;
+	std::cout << "key : " << kv.key << ", val : " << kv.val << std::endl;
+	std::cout << "k = " << k << std::endl;
 }

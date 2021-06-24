@@ -22,7 +22,6 @@
 
 #define STATE_POS 0
 
-using namespace std;
 
 
 //struct KV kv{};

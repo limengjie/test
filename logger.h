@@ -4,6 +4,6 @@
 #include <stdio.h>
 #include <mutex>
 #include <vector>
-using namespace std;
+//using namespace std;
 
 void modify();
