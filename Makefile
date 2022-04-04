@@ -1,3 +1,4 @@
+#add a comment in makefile
 MKFILE      = Makefile
 
 COMPILECPP  = g++ -g -O0 -Wall -Wextra -rdynamic -std=gnu++17
