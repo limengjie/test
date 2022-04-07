@@ -1,0 +1,45 @@
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: level: ERROR
+message: "Not a directory: /home/lmj/Android/packages/apps/testapp/libaums"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/lmj/Android/packages/apps/testapp/libaums\",\n  \"buildDirectory\": \"/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86\",\n  \"generator\": \"Ninja\"\n}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"gradle-cmake-cookie\",\"errorMessage\":\"Failed to activate protocol version: \\\"sourceDirectory\\\" is not a directory.\",\"inReplyTo\":\"handshake\",\"type\":\"error\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: level: ERROR
+message: "Failed to activate protocol version: \"sourceDirectory\" is not a directory."
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d26\",\n    \"-DANDROID_PLATFORM\\u003dandroid-26\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/x86\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/x86\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"errorMessage\":\"Waiting for type \\\"handshake\\\".\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: level: ERROR
+message: "Waiting for type \"handshake\"."
+

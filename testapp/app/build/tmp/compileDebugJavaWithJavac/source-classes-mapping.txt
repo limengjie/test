@@ -1,0 +1,5 @@
+org/crazyit/io/BuildConfig.java
+ org.crazyit.io.BuildConfig
+org/crazyit/io/MainActivity.java
+ org.crazyit.io.MainActivity
+ org.crazyit.io.MainActivity$1

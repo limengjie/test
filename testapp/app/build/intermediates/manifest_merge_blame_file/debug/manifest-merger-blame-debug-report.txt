@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.crazyit.io"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml
+10    <!-- 向SD卡写入数据的权限 -->
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:23:2-77
+11-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:23:19-75
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:24:2-76
+12-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:24:19-74
+13    <!-- 获取网络状态的权限 -->
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:26:2-76
+14-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:26:19-73
+15    <!-- android:sharedUserId="android.uid.system"> -->
+16    <application
+16-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:6:2-21:16
+17        android:allowBackup="true"
+17-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:7:3-29
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0-alpha01] /home/lmj/.gradle/caches/transforms-3/b59aaaa5ef7274d5acb3191d3e5ca711/transformed/core-1.8.0-alpha01/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:8:3-37
+22        android:label="@string/app_name"
+22-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:9:3-35
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:10:3-48
+24        android:supportsRtl="true"
+24-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:11:3-29
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:12:3-34
+27        <activity
+27-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:13:3-20:14
+28            android:name="org.crazyit.io.MainActivity"
+28-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:13:13-41
+29            android:exported="true" >
+29-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:14:4-27
+30            <intent-filter>
+30-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:15:4-19:20
+31                <action android:name="android.intent.action.MAIN" />
+31-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:16:5-57
+31-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:16:13-54
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:18:5-65
+33-->/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/src/main/AndroidManifest.xml:18:15-62
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>

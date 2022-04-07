@@ -1,0 +1,212 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: armeabi-v7a",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 347066174
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -238442700
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1660060854
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 708835048
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -352054313
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/armeabi-v7a\u0027",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2128723473
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /usr/bin/cmake\narguments : \n-H/home/lmj/Android/packages/apps/testapp/libaums\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d26\n-DANDROID_PLATFORM\u003dandroid-26\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1632438696
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1700268437
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 523152495
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -192232114
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1083015633
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/lmj/Android/packages/apps/testapp/libaums\",\n  \"buildDirectory\": \"/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -52440965
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 925227696
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d26\",\n    \"-DANDROID_PLATFORM\\u003dandroid-26\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/armeabi-v7a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/armeabi-v7a\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1641367167
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error: CMake was unable to find a build program corresponding to \\\"Ninja\\\".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 417723005
+  }
+]

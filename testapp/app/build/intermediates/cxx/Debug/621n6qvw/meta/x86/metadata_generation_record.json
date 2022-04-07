@@ -1,0 +1,282 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: x86",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1388343675
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86/android_gradle_build.json due to:",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1036269967
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1599087009
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 413959933
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1800861376
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86\u0027",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 499371512
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86\u0027",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1249257212
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /usr/bin/cmake\narguments : \n-H/home/lmj/Android/packages/apps/testapp/libaums\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d26\n-DANDROID_PLATFORM\u003dandroid-26\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/x86\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86\n-GNinja\njvmArgs : \n\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -618099563
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 251461374
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -925654568
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1641039177
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1763144600
+  },
+  {
+    "level_": 3,
+    "message_": "Not a directory: /home/lmj/Android/packages/apps/testapp/libaums",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1782328783
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/lmj/Android/packages/apps/testapp/libaums\",\n  \"buildDirectory\": \"/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/.cxx/Debug/621n6qvw/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1712187976
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"errorMessage\":\"Failed to activate protocol version: \\\"sourceDirectory\\\" is not a directory.\",\"inReplyTo\":\"handshake\",\"type\":\"error\"}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -808278154
+  },
+  {
+    "level_": 3,
+    "message_": "Failed to activate protocol version: \"sourceDirectory\" is not a directory.",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 425084743
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d26\",\n    \"-DANDROID_PLATFORM\\u003dandroid-26\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/lmj/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/x86\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/media/newhd/skywalker-workspace/starcruiser/starcruiser-lavm-p/lagvm_p/LINUX/android/packages/apps/testapp/app/build/intermediates/cxx/Debug/621n6qvw/obj/x86\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1304735808
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"errorMessage\":\"Waiting for type \\\"handshake\\\".\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1694159264
+  },
+  {
+    "level_": 3,
+    "message_": "Waiting for type \"handshake\".",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -413307452
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/usr/bin).\r\n",
+    "file_": "/home/lmj/Android/packages/apps/testapp/libaums/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1225389597
+  }
+]
