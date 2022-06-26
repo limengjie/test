@@ -1,0 +1,15 @@
+#input = server.c client.c
+CC = gcc
+target1 = server
+target2 = client
+
+all : $(target1) $(target2)
+
+$(target1): 
+	$(CC) -o $@ $(target1).c
+
+$(target2): 
+	$(CC) -o $@ $(target2).c
+
+clean: 
+	$(RM) $(target1) $(target2)
