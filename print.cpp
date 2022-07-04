@@ -6,6 +6,8 @@
 struct KV kv;
 int k = 10;
 
+//alternative comment
+
 void print()
 {
 	std::cout << "hello world" << std::endl;
